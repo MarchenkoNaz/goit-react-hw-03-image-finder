@@ -1,5 +1,4 @@
-import { fetchData } from 'Helpers/Helpers';
-import PropTypes from 'prop-types'
+
 import React, { Component } from 'react'
 
 export default class SearchBar extends Component {
