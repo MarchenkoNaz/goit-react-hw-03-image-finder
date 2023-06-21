@@ -1,0 +1,18 @@
+☐  SeacrhBar
+	✔ styling @done(23-06-21 09:40)
+	☐ search
+☐  ImageGallery
+	✔ styling @done(23-06-21 09:41)
+	☐ ul list (array of data)
+☐  ImageGalleryItem
+	✔ styling @done(23-06-21 09:41)
+	☐ render html markup of the data which we get from the gallery
+☐  Loader
+	☐ styling
+	☐ code
+☐  Button
+	☐ styling
+	☐ Load more pictures
+☐  Modal
+	☐ styling
+	☐ click on li opens modal with black overlay and shows big version of the photo.
