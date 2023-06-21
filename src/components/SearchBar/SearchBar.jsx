@@ -10,7 +10,6 @@ export default class SearchBar extends Component {
 		e.preventDefault();
 
 		this.props.onSubmit(this.state.searchValue);
-		fetchData(this.state.searchValue)
 		this.setState(() => ({ searchValue: '' }));
 	};
 	handleSearchTerm = ({ target: { value, name } }) => {
